@@ -16,5 +16,5 @@ They are listed and described below:
                
 
 =======================================================================
-This project was made possible by following Kai Toedter' tutorial
+This project was made possible by following Kai Toedter's Tutorial
 
